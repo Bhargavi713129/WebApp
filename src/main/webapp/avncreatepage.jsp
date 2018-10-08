@@ -10,7 +10,8 @@
 
 </head>
 <style>
-body { 
+body 
+{ 
     background-color: #f3f6f9; 
 }
 #header {
@@ -49,6 +50,7 @@ input[type="text"]{
       -moz-border-radius:5px;
       -webkit-border-radius:5px;
     }
+
 input[type="text"]{
       border-radius:5px;
       -moz-border-radius:5px;
