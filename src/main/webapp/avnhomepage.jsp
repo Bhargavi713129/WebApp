@@ -22,7 +22,8 @@ text-align: right;
 	min-width: 180px;
     padding: 15px;
 }
-p{
+p
+{
 color:white;
 }
 .text-center {
