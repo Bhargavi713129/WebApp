@@ -5,7 +5,8 @@
 <head>
 <title>avnhomepage jira</title>
 <style>
-body{
+body
+{
 background-color: #f9f8f7;
 }
 #home
