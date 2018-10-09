@@ -18,7 +18,8 @@ public class avnlogin extends HttpServlet {
 	        String username = request.getParameter("username");
 	        String userpassword = request.getParameter("userpassword");
 	       	        
-	        if(username.contentEquals(userpassword))
+	        
+		if(username.contentEquals(userpassword))
 	        {
 	        	System.out.println("Login Unit Test Passed for valid user");
 	            RequestDispatcher rs = request.getRequestDispatcher("/avnhomepage.jsp");
